@@ -2,66 +2,66 @@
 const galleryData = [
     {
         id: 1,
-        title: "Uñas Francesas Modernas",
-        category: "uñas-gel",
+        title: " ",
+        category: " ",
         image: "images/xtra-1.jpg",
-        description: "Diseño elegante con toque moderno"
+        description: " "
     },
     {
         id: 2,
-        title: "Diseño Floral Primavera",
-        category: "diseños",
+        title: " ",
+        category: " ",
         image: "images/xtra-2.jpg",
-        description: "Colores vibrantes y flores delicadas"
+        description: " "
     },
     {
         id: 3,
-        title: "Uñas Acrílicas Largas",
-        category: "uñas-acrilicas",
+        title: " ",
+        category: " ",
         image: "images/xtra-3.jpg",
-        description: "Extensión acrílica con forma coffin"
+        description: " "
     },
     {
         id: 4,
-        title: "Efecto Marmol",
-        category: "diseños",
+        title: " ",
+        category: " ",
         image: "images/xtra-4.jpg",
-        description: "Técnica de mármol en tonos pastel"
+        description: " "
     },
     {
         id: 5,
-        title: "Uñas Esculpidas Naturales",
-        category: "esculpidas",
+        title: " ",
+        category: " ",
         image: "images/xtra-5.jpg",
-        description: "Forma natural con acabado brillante"
+        description: " "
     },
     {
         id: 6,
-        title: "Diseño con Piedras",
-        category: "diseños",
+        title: " ",
+        category: " ",
         image: "images/xtra-6.jpg",
-        description: "Decoración con cristales SWAROVSKI"
+        description: " "
     },
     {
         id: 7,
-        title: "Uñas de Gel Color Nude",
-        category: "uñas-gel",
+        title: " ",
+        category: " ",
         image: "images/xtra-7.png",
-        description: "Color nude con brillo sutil"
+        description: " "
     },
     {
         id: 8,
-        title: "Diseño Geométrico",
-        category: "diseños",
+        title: " ",
+        category: " ",
         image: "images/xtra-8.jpg",
-        description: "Líneas geométricas en blanco y negro"
+        description: " "
     },
     {
         id: 9,
-        title: "Uñas Acrílicas con Diseño",
-        category: "uñas-acrilicas",
+        title: " ",
+        category: " ",
         image: "images/xtra-9.jpg",
-        description: "Uñas largas con arte abstracto"
+        description: " "
     }
 ];
 

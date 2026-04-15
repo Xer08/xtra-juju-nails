@@ -187,9 +187,8 @@ function openLightbox(item) {
     lightboxCaption.innerHTML = `
         <h3>${item.title}</h3>
         <p>${item.description}</p>
-        <p><strong>Categoría:</strong> ${getCategoryName(item.category)}</p>
     `;
-    lightbox.style.display = 'block';
+    lightbox.style.display = 'flex';
     isLightboxOpen = true;
     document.body.style.overflow = 'hidden';
 }

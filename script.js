@@ -184,10 +184,7 @@ function setupEventListeners() {
 // Abrir lightbox
 function openLightbox(item) {
     lightboxImg.src = item.image;
-    lightboxCaption.innerHTML = `
-        <h3>${item.title}</h3>
-        <p>${item.description}</p>
-    `;
+    lightboxCaption.innerHTML = '';
     lightbox.style.display = 'flex';
     isLightboxOpen = true;
     document.body.style.overflow = 'hidden';
